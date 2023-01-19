@@ -39,13 +39,13 @@ PHP, HTML, JS, SQL.
 
 ### Пользовательский интерфейс:
 ЛК преподавателя:
-
+![](https://github.com/lol1gr1zzy/cursework/blob/main/imageMD/BoS5nTlTdPM.jpg)
 ЛК ученика:
-
+![](https://github.com/lol1gr1zzy/cursework/blob/main/imageMD/Lk8TIb7nkCA.jpg)
 Выставление оценки ученику:
-
+![]()https://github.com/lol1gr1zzy/cursework/blob/main/imageMD/xJpNyIuZYY0.jpg
 Админка:
-
+![](https://github.com/lol1gr1zzy/cursework/blob/main/imageMD/tEK3imtHrNs.jpg)
 ### Пользовательский сценарий:
 - Пользователь (ученик/преподаватель) зайдет в ЛК
 - Пользователь введет неверный пароль
